@@ -5,7 +5,7 @@ July 2012,
 *Anush Krishnan, Lorena A. Barba*
 
 Technical report of the validation and verification (V&V) exercise for the cuIBM code. 
-Available on the *figshare* repository under a Creative Commons Attribution License CC-BY.
+Available on the *figshare* repository under a [Creative Commons Attribution License CC-BY](http://creativecommons.org/licenses/by/4.0/legalcode).
 Please cite as:
 
 > Krishnan, Anush; Barba, Lorena A. (2013): Validation of the cuIBM code for Navier-Stokes equations with immersed boundary methods. figshare. [https://dx.doi.org/10.6084/m9.figshare.92789.v3](https://dx.doi.org/10.6084/m9.figshare.92789.v3)
